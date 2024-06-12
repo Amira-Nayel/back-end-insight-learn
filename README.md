@@ -1,5 +1,5 @@
 ## Description:
-This Django project is designed to provide various functionalities for managing session data. It consists of four apps: api, authapi, fetchapi, mlintegration.
+This Django project provides a comprehensive system for managing and analyzing users session's data. It consists of four apps: api, authapi, fetchapi, mlintegration.
 
 ## Usage:
 first app (api):
