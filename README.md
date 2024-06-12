@@ -9,7 +9,7 @@ first app (api):
 - To separate records of each session for each user, send a GET request to `/api/separated/`.
 - To view details of each unique session, send a GET request to `/api/unique/`.
 - To view the cumulative duration of sessions for each user, send a GET request to `/api/total_sessions_duration/`.
-- 
+
 second app (authapi):
 - To login, send a POST request to `/authapi/login/`.
 - To sign up, send a POST request to `/authapi/signup/`.
@@ -20,7 +20,7 @@ second app (authapi):
 - To suspend or activate users, send a POST request to `/authapi/suspend_users/`.
 - To update user staff status, send a POST request to `/authapi/update_user_staff_status/`.
 - To update user superuser status, send a POST request to `/authapi/update_user_superuser_status/`.
-- 
+ 
 third app (fetchapi):
 - To fetch user quiz data, send a GET request to `/fetchapi/fetchquiz/`.
 - To fetch user assignment data, send a GET request to `/fetchapi/fetchassignment/`.
@@ -64,15 +64,18 @@ fourth app (mlintegration):
 - `/successprediction/`: Get predictions
 - `/gradeprediction/`: Get grade predictions
 
+
 ## Technologies Used
 - Django
 - Django REST Framework
+
 
 ## Contributors
 - Amira Mahmoud Ahmed Nayel  (https://github.com/Amira-Nayel)
 - Lobna Mohammed AbdElrazak Elnisr  (https://github.com/lobnaelnisr)
 - Malak Tarek Muhammed Assem
 - Salma Mohammed Abdelrahman Ebrahim
+
 
 ## you can access the rest of the project frome here:
 [Frontend Repository](https://github.com/Amira-Nayel/frontend-insight-learn.git)
